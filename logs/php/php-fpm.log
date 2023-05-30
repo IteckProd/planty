@@ -1,0 +1,73 @@
+[13-Mar-2023 11:20:27] NOTICE: fpm is running, pid 2931
+[13-Mar-2023 11:20:27] NOTICE: ready to handle connections
+[13-Mar-2023 11:29:49] WARNING: [pool www] child 2945 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[13-Mar-2023 11:29:49] WARNING: [pool www] child 2945 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[13-Mar-2023 12:08:22] NOTICE: Terminating ...
+[13-Mar-2023 12:08:22] NOTICE: Terminating ...
+[13-Mar-2023 12:08:22] NOTICE: exiting, bye-bye!
+[20-Mar-2023 09:14:09] NOTICE: fpm is running, pid 94280
+[20-Mar-2023 09:14:09] NOTICE: ready to handle connections
+[20-Mar-2023 10:06:54] WARNING: [pool www] child 94291 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[20-Mar-2023 10:06:54] WARNING: [pool www] child 94291 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[20-Mar-2023 10:08:17] WARNING: [pool www] child 94290 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[20-Mar-2023 10:08:17] WARNING: [pool www] child 94290 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[20-Mar-2023 10:14:00] WARNING: [pool www] child 94291 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[20-Mar-2023 10:14:00] WARNING: [pool www] child 94291 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[20-Mar-2023 10:19:53] WARNING: [pool www] child 94290 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[20-Mar-2023 10:19:53] WARNING: [pool www] child 94290 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[20-Mar-2023 18:01:20] NOTICE: Terminating ...
+[20-Mar-2023 18:01:20] NOTICE: Terminating ...
+[20-Mar-2023 18:01:20] NOTICE: exiting, bye-bye!
+[27-Mar-2023 11:34:56] NOTICE: fpm is running, pid 45182
+[27-Mar-2023 11:34:56] NOTICE: ready to handle connections
+[27-Mar-2023 12:29:59] NOTICE: Terminating ...
+[27-Mar-2023 12:29:59] NOTICE: Terminating ...
+[27-Mar-2023 12:29:59] NOTICE: exiting, bye-bye!
+[04-Apr-2023 09:28:08] NOTICE: fpm is running, pid 89773
+[04-Apr-2023 09:28:09] NOTICE: ready to handle connections
+[11-Apr-2023 20:21:55] NOTICE: Terminating ...
+[11-Apr-2023 20:21:55] NOTICE: Terminating ...
+[11-Apr-2023 20:21:55] NOTICE: exiting, bye-bye!
+[12-Apr-2023 16:25:16] NOTICE: fpm is running, pid 3508
+[12-Apr-2023 16:25:16] NOTICE: ready to handle connections
+[14-Apr-2023 10:00:23] NOTICE: Terminating ...
+[14-Apr-2023 10:00:23] NOTICE: Terminating ...
+[14-Apr-2023 10:00:23] NOTICE: exiting, bye-bye!
+[17-Apr-2023 09:17:04] NOTICE: fpm is running, pid 4913
+[17-Apr-2023 09:17:04] NOTICE: ready to handle connections
+[17-Apr-2023 09:23:04] WARNING: [pool www] child 4919 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[17-Apr-2023 09:23:04] WARNING: [pool www] child 4919 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[17-Apr-2023 09:23:08] WARNING: [pool www] child 4919 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[17-Apr-2023 09:23:08] WARNING: [pool www] child 4919 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[17-Apr-2023 17:43:38] NOTICE: Terminating ...
+[17-Apr-2023 17:43:38] NOTICE: Terminating ...
+[17-Apr-2023 17:43:38] NOTICE: exiting, bye-bye!
+[27-Apr-2023 09:21:39] NOTICE: fpm is running, pid 21888
+[27-Apr-2023 09:21:39] NOTICE: ready to handle connections
+[27-Apr-2023 11:48:37] NOTICE: Terminating ...
+[27-Apr-2023 11:48:37] NOTICE: Terminating ...
+[27-Apr-2023 11:48:37] NOTICE: exiting, bye-bye!
+[02-May-2023 08:08:00] NOTICE: fpm is running, pid 47483
+[02-May-2023 08:08:00] NOTICE: ready to handle connections
+[02-May-2023 08:15:42] WARNING: [pool www] child 47489 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[02-May-2023 08:15:42] WARNING: [pool www] child 47489 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[02-May-2023 08:15:44] WARNING: [pool www] child 47489 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[02-May-2023 08:15:44] WARNING: [pool www] child 47489 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[02-May-2023 08:18:52] WARNING: [pool www] child 47489 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[02-May-2023 08:18:52] WARNING: [pool www] child 47489 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[02-May-2023 08:19:14] WARNING: [pool www] child 47490 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[02-May-2023 08:19:14] WARNING: [pool www] child 47490 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[03-May-2023 22:48:35] NOTICE: Terminating ...
+[03-May-2023 22:48:35] NOTICE: Terminating ...
+[03-May-2023 22:48:35] NOTICE: exiting, bye-bye!
+[19-May-2023 12:36:36] NOTICE: fpm is running, pid 1587
+[19-May-2023 12:36:36] NOTICE: ready to handle connections
+[24-May-2023 10:20:42] WARNING: [pool www] child 1602 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[24-May-2023 10:20:42] WARNING: [pool www] child 1602 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[24-May-2023 10:20:46] WARNING: [pool www] child 1603 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[24-May-2023 10:20:46] WARNING: [pool www] child 1603 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[29-May-2023 10:58:59] NOTICE: Terminating ...
+[29-May-2023 10:58:59] NOTICE: Terminating ...
+[29-May-2023 10:58:59] NOTICE: exiting, bye-bye!
+[30-May-2023 11:16:28] NOTICE: fpm is running, pid 22573
+[30-May-2023 11:16:28] NOTICE: ready to handle connections
