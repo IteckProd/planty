@@ -18,3 +18,4 @@
 [24-May-2023 08:33:43 UTC] PHP Warning:  Undefined array key "data" in /Users/louis/Local Sites/planty/app/public/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
 [24-May-2023 08:35:18 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/louis/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
 [30-May-2023 09:30:04 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/louis/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[06-Jun-2023 08:44:47 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
