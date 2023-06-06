@@ -71,3 +71,14 @@
 [29-May-2023 10:58:59] NOTICE: exiting, bye-bye!
 [30-May-2023 11:16:28] NOTICE: fpm is running, pid 22573
 [30-May-2023 11:16:28] NOTICE: ready to handle connections
+[30-May-2023 15:14:04] NOTICE: Terminating ...
+[30-May-2023 15:14:04] NOTICE: Terminating ...
+[30-May-2023 15:14:04] NOTICE: exiting, bye-bye!
+[06-Jun-2023 09:13:12] NOTICE: fpm is running, pid 62008
+[06-Jun-2023 09:13:12] NOTICE: ready to handle connections
+[06-Jun-2023 09:18:35] WARNING: [pool www] child 62023 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[06-Jun-2023 09:18:35] WARNING: [pool www] child 62023 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[06-Jun-2023 09:18:42] WARNING: [pool www] child 62023 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[06-Jun-2023 09:18:42] WARNING: [pool www] child 62023 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
+[06-Jun-2023 09:18:49] WARNING: [pool www] child 62023 said into stderr: "chmod: /Users/louis/Local: No such file or directory"
+[06-Jun-2023 09:18:49] WARNING: [pool www] child 62023 said into stderr: "chmod: Sites/planty/app/public/wp-content/plugins/gitium/inc/ssh-git: No such file or directory"
