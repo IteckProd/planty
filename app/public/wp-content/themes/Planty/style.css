@@ -1,0 +1,38 @@
+/*
+Theme Name: Hello Elementor Child
+Theme URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+Template: hello-elementor
+Author: Elementor Team
+Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+Description: A plain-vanilla &amp; lightweight theme for Elementor page builder
+Tags: accessibility-ready,flexible-header,custom-colors,custom-menu,custom-logo,featured-images,rtl-language-support,threaded-comments,translation-ready
+Version: 2.6.1.1679303688
+Updated: 2023-03-20 10:14:48
+
+*/
+
+#FormFruit input[type="submit"] {
+  background-color: #DC9F96;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+#FormFruit input[type="submit"]:hover {
+  background-color: #F2B7AE;
+}
+
+#FormFruit input[type="number"]::-webkit-inner-spin-button,
+#FormFruit input[type="number"]::-webkit-outer-spin-button {
+  background-color: pink;
+  border: none;
+  color: pink;
+  height: 40px;
+  width: 20px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  border-radius: 0 5px 5px 0;
+}
+

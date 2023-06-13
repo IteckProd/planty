@@ -1,0 +1,39 @@
+.mon-module {
+    display: flex;
+    border: 1px solid #000;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.mon-module .chiffre-container {
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.mon-module .chiffre {
+    font-size: 2rem;
+    color: #000;
+}
+
+.mon-module .boutons {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFC0CB;
+}
+
+.mon-module button {
+    flex: 1;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.mon-module .separateur {
+    height: 1px;
+    background-color: #fff;
+}
