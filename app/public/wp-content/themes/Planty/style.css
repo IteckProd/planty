@@ -25,14 +25,33 @@ Updated: 2023-03-20 10:14:48
 
 #FormFruit input[type="number"]::-webkit-inner-spin-button,
 #FormFruit input[type="number"]::-webkit-outer-spin-button {
-  background-color: pink;
+  background-color: #DC9F96;
   border: none;
-  color: pink;
+  color: #DC9F96;
   height: 40px;
   width: 20px;
   text-align: center;
   padding: 0;
   margin: 0;
   border-radius: 0 5px 5px 0;
+}
+
+.menu-item-541 a {
+  background-color: #DC9F96;
+  color: #ffffff !important;
+  height: 80px;
+  width: 236px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 0;
+  margin: 0; 
+  text-decoration: none; 
+  padding: 0;
+}
+
+.admin_button a {
+	color: #000000 !important;
 }
 
